@@ -1,18 +1,18 @@
-Camera <br />
+**Camera** <br />
 
 Source: <br/>
 https://ionicframework.com/docs/native/camera/    
 
-$ ionic cordova plugin add cordova-plugin-camera
+$ ionic cordova plugin add cordova-plugin-camera <br />
 $ npm install --save @ionic-native/camera
 
 
-Image Picker <br />
+**Image Picker** <br />
 
 Source: <br />
 https://ionicframework.com/docs/native/image-picker/    <br />
 
-$ ionic cordova plugin add cordova-plugin-telerik-imagepicker --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+$ ionic cordova plugin add cordova-plugin-telerik-imagepicker --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message" <br />
 $ npm install --save @ionic-native/image-picker
 
 
